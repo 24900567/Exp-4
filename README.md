@@ -1,9 +1,9 @@
 # Exp - 4 HOSPITAL MANAGEMENT SYSTEM
 
 # AIM:
-
+To study the problem statement, SRS document and draw all the UML diagrams of a Hospital Management System.
 # SRS (Procedure):
-
+To create Hospital Management System software that will meet the needs of the applicant and help them with patient registration, booking medical services or appointments, modification in the database, and cancellation of registered appointments or services.
 # DIAGRAMS:
 
 # USECASE DIAGRAM
@@ -21,3 +21,5 @@
 
 
 # RESULT:
+Thus the Hospital management system project was executed and the output was verified.
+
